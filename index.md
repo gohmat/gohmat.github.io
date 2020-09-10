@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-asdafg
+TODO: -contact icons below, research/publications, bio
