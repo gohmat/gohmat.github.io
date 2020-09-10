@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Matt Goh
 
 # Name of the author
 author: Matt Goh
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Thoughts, physics and life
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/profile_picture.jpg
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: matt.goh@physics.ox.ac.uk
   facebook:
   flickr:
   github: gohmat
   instagram:
-  linkedin: 
+  linkedin: matt-goh
   pinterest:
-  rss: rss
-  twitter: amit_merchant
+  rss:
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -45,8 +45,8 @@ google_analytics: UA-177280669-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://gohmat.github.io
+enforce_ssl: https://gohmat.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -86,7 +86,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 2
+paginate: 6
 paginate_path: /blog/:num/
 
 # Exclude these files from your production _site
