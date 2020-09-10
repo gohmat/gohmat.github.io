@@ -33,7 +33,7 @@ title: Blog
       {% if page == paginator.page %}
         <span class="webjeda">{{ page }}</span>
       {% elsif page == 1 %}
-        <a href="{{ site.baseurl.blog }}">{{ page }}</a>
+        <a href="{{ gohmat.github.io/blog/ }}">1</a>
       {% else %}
         <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
       {% endif %}
