@@ -12,13 +12,15 @@ layout: default
 
   {% for item in page.items %}
   <div class="research-topic">
+  <p>
   	<img src="{{ item.image.src | absolute_url }}" class="research-bubble"/>
 	<span class="research-text">
 		<strong>{{ item.title }}</strong>
 		&mdash;
 		{{ item.description }}
 	</span>
-   </div>
-   {% endfor %}
+  </p>
+  /div>
+  {% endfor %}
 
 </article>
