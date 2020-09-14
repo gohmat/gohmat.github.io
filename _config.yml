@@ -20,22 +20,15 @@ avatar: /images/profile_picture.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: matt.goh@physics.ox.ac.uk
   googlescholar: WTQmeNUAAAAJ
   arxiv: goh_m_1
-  facebook:
-  flickr:
   github: gohmat
-  instagram:
   linkedin: matt-goh
-  pinterest:
   rss:
+  stackoverflow:
   twitter:
-  stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
