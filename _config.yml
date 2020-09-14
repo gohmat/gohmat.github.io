@@ -23,6 +23,7 @@ footer-links:
   dribbble:
   email: matt.goh@physics.ox.ac.uk
   googlescholar: WTQmeNUAAAAJ
+  arxiv: goh_m_1
   facebook:
   flickr:
   github: gohmat
@@ -35,7 +36,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  arxiv: goh_m_1
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
