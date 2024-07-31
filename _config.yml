@@ -312,7 +312,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: Goh
-  first_name: [Matthew L., ML, M.L.]
+  first_name: [Matthew L., Matthew L, ML, M.L.]
 
   style: apa
   locale: en
