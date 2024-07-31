@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Matt. I'm a quantum physicist, and I'm currently a PhD student in the [Quantum Technology Theory Group](https://qtechtheory.org/) at the University of Oxford. I'm a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/), and this scholarship helps support my studies and research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span several areas of quantum technology - quantum computing, quantum sensing, quantum control, and many-body quantum dynamics.
