@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1a"
+
+"Phys. Rev. Lett.":
+  url: https://journals.aps.org/prl/
+  color: "#507e66"
+
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
+  color: "#ff4127"
+
+"ANU":
+  url: https://www.anu.edu.au/
+  color: "#f5edde"
