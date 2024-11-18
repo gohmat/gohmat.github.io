@@ -21,4 +21,4 @@ Hi, I'm Matt. I'm a quantum physicist, and I'm currently a PhD student in the [Q
 
 My research interests span several areas of quantum technology - quantum computing, quantum sensing, quantum control, and many-body quantum dynamics.
 
-I expect to submit my PhD thesis in the coming weeks. If you are hiring for postdocs or industry positions, please get in touch!
+I will submit my PhD thesis in the next couple of weeks. If you are hiring for postdocs or industry positions, please get in touch!
