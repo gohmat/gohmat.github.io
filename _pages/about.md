@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Matt. I'm a quantum physicist, and I'm currently a PhD student in the [Quantum Technology Theory Group](https://qtechtheory.org/) at the University of Oxford. I'm a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/), and this scholarship helps support my studies and research.
+Hi, I'm Matt. I'm a quantum physicist, and I've just concluded a PhD in the [Quantum Technology Theory Group](https://qtechtheory.org/) at the University of Oxford. I'm a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/), and this scholarship helped support my studies and research.
 
 My research interests span several areas of quantum technology - quantum computing, quantum sensing, quantum control, and many-body quantum dynamics.
 
