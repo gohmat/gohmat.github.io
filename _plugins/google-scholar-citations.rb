@@ -29,7 +29,7 @@ module Jekyll
           end
 
           # Sleep for a random amount of time to avoid being blocked
-          sleep(rand(4.5..6.5))
+          sleep(rand(5.5..8.5))
 
           # Fetch the article page
           doc = Nokogiri::HTML(URI.open(article_url, "User-Agent" => "Ruby/#{RUBY_VERSION}"))
