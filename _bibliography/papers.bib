@@ -72,18 +72,16 @@
   selected={true}
 }
 
-
-
 @article{goh2023lie,
   title={Lie-algebraic classical simulations for quantum computing},
   author={Goh, Matthew L and Larocca, Martin and Cincio, Lukasz and Cerezo, M and Sauvage, Fr{\'e}d{\'e}ric},
-  journal={arXiv preprint arXiv:2308.01432},
-  year={2023},
-  html={https://arxiv.org/abs/2308.01432},
-  pdf={https://arxiv.org/pdf/2308.01432.pdf},
+  journal={Physical Review Research},
+  year={2025},
+  html={https://journals.aps.org/prresearch/abstract/10.1103/3y65-f5w6},
+  pdf={https://journals.aps.org/prresearch/pdf/10.1103/3y65-f5w6},
   google_scholar_id={IjCSPb-OGe4C},
-  abbr={arXiv},
-  abstract={Classical simulation of quantum dynamics plays an important role in our understanding of quantum complexity, and in the development of quantum technologies. Compared to other techniques for efficient classical simulations, methods relying on the Lie-algebraic structure of quantum dynamics have received relatively little attention. At their core, these simulations leverage the underlying Lie algebra - and the associated Lie group - of a dynamical process. As such, rather than keeping track of the individual entries of large matrices, one instead keeps track of how its algebraic decomposition changes during the evolution. When the dimension of the algebra is small (e.g., growing at most polynomially in the system size), one can leverage efficient simulation techniques. In this work, we review the basis for such methods, presenting a framework that we call "g-sim", and showcase their efficient implementation in several paradigmatic variational quantum computing tasks. Specifically, we perform Lie-algebraic simulations to train and optimize parametrized quantum circuits, design enhanced parameter initialization strategies, solve tasks of quantum circuit synthesis, and train a quantum-phase classifier.},
+  abbr={Phys. Rev. Res.},
+  abstract={The classical simulation of quantum dynamics plays an important role in our understanding of quantum complexity and in the development of quantum technologies. Efficient techniques such as those based on the Gottesman-Knill theorem for Clifford circuits, tensor networks for low entanglement-generating circuits, or Wick's theorem for fermionic Gaussian states have become central tools in quantum computing. In this work, we contribute to this body of knowledge by presenting a framework for classical simulations, dubbed “𝔤-sim”, which is based on the underlying Lie algebraic structure of the dynamical process. When the dimension of the algebra grows at most polynomially in the system size, there exist observables for which the simulation is efficient. Indeed, we show that 𝔤-sim enables new regimes for classical simulations, is able to deal with certain forms of noise in the evolution, as well as can be used to tackle several paradigmatic variational and nonvariational quantum computing tasks. For the former, we perform Lie-algebraic simulations to train and optimize parametrized quantum circuits (thus effectively showing that some variational models can be dequantized), design enhanced parameter initialization strategies, solve tasks of quantum circuit synthesis, and train a quantum-phase classifier. For the latter, we report large-scale noiseless and noisy simulations on benchmark problems. By comparing the limitations of 𝔤-sim and certain Wick's theorem-based simulations, we find that the two methods become inefficient for different types of states or observables, hinting at the existence of distinct, nonequivalent resources for classical simulation.},
   preview={g-sim.png},
   selected={true}
 }
@@ -139,12 +137,12 @@
 @article{mehdi2025multi,
   title={Multi-mode cooling of a Bose-Einstein condensate with linear quantum feedback},
   author={Mehdi, Zain and Goh, Matthew L and Blacker, Matthew J and Hope, Joseph J and Szigeti, Stuart S},
-  journal={arXiv preprint arXiv:2506.02377},
+  journal={Quantum Science and Technology},
   year={2025},
-  html={https://arxiv.org/abs/2506.02377},
-  pdf={https://arxiv.org/pdf/2506.02377.pdf},
+  html={https://iopscience.iop.org/article/10.1088/2058-9565/ae0a7c/meta},
+  pdf={https://iopscience.iop.org/article/10.1088/2058-9565/ae0a7c/pdf},
   google_scholar_id={ufrVoPGSRksC},
-  abbr={arXiv},
+  abbr={Quantum Sci. Technol.},
   abstract={We theoretically investigate measurement-based feedback control over the motional degrees of freedom of an oblate quasi-2D atomic Bose-Einstein condensate (BEC) subject to continuous density monitoring. We develop a linear-quadratic-Gaussian (LQG) model that describes the multi-mode dynamics of the condensate's collective excitations under continuous measurement and control. Crucially, the multi-mode cold-damping feedback control we consider uses a realistic state-estimation scheme that does not rely upon a particular model of the atomic dynamics. We present analytical results showing that collective excitations can be cooled to below single-phonon average occupation (ground-state cooling) across a broad parameter regime and identify the conditions under which the lowest steady-state phonon occupation is asymptotically achieved. Further, we develop multi-objective optimization methods that explore the trade-off between cooling speed and the final energy of the cloud and provide numerical simulations demonstrating the ground-state cooling of the lowest ten motional modes above the condensate ground state. Our investigation provides concrete guidance on the feedback control design and parameters needed to experimentally realize a feedback-cooled BEC.},
   preview={feedback-bogoliubov.png}
 }
