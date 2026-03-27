@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gohmat.github.io/sitemap.xml
+Sitemap: https://mat.github.io/sitemap.xml
