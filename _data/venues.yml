@@ -22,14 +22,14 @@
   url: https://www.ox.ac.uk/
   color: "#041E42"
 
-"Quantum. Sci. Technol."
+"Quantum. Sci. Technol.":
   url: https://iopscience.iop.org/journal/2058-9565
   color: "#ac498c"
 
-"PRX Quantum"
+"PRX Quantum":
   url: https://journals.aps.org/prxquantum/
   color: "#0a2a36"
 
-"Phys. Rev. Res."
+"Phys. Rev. Res.":
   url: https://journals.aps.org/prresearch/
   color: "#7e58a8"
