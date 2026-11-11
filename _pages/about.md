@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Matt Sims-Goh (*né* Goh). I'm a quantum physicist, working as an Applications Scientist at [Quantum Motion](https://quantummotion.com/). I did my PhD in the [Quantum Technology Theory Group](https://qtechtheory.org/) at the University of Oxford, where I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/). I am an Honorary Fellow (Level B) at the School of Physics, [University of Melbourne](https://www.unimelb.edu.au/).
+Hi, I'm Matt Sims-Goh (*né* Goh). I'm a quantum physicist, working as an Applications Scientist at [Quantum Motion](https://quantummotion.com/). I did my PhD in the [Quantum Technology Theory Group](https://qtechtheory.org/) at the University of Oxford, where I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/). I am an Honorary Fellow (Level B) at the School of Physics, [University of Melbourne](https://findanexpert.unimelb.edu.au/profile/1125327-matt-sims-goh).
 
 My research interests broadly span quantum computing and quantum algorithms. I'm particularly interested in industrial applications of quantum computing, state preparation, classical simulation and tensor networks.
 
