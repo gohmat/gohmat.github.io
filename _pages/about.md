@@ -23,3 +23,8 @@ Hi, I'm Matt Sims-Goh (*né* Goh). I'm a quantum physicist, working as an Applic
 My research interests broadly span quantum computing and quantum algorithms. I'm particularly interested in industrial applications of quantum computing, state preparation, classical simulation and tensor networks.
 
 I am open to academic collaboration and supervising graduate students. If you would like to work with me or the Applications team at Quantum Motion, please reach out!
+
+> **Now recruiting**
+> - **PhD scholarship (Quantum Motion & Monash University):** quantum machine learning for medical imaging, co-supervised with Prof. Muhammad Usman. Open to international and domestic students; applications close 28 February 2027. [More details](/supervision/#phd-scholarship)
+> - **Paid internships (Quantum Motion):** research projects of typically 3–4 months in the Quantum Theory team, for PhD and Master's students. Applications close 21 January 2027. [More details](/supervision/#internships)
+{: .block-tip style="display: flow-root; font-size: 1rem;" }
