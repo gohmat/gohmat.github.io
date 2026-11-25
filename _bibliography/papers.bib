@@ -217,3 +217,16 @@
   preview  = {ASPIRE.png},
   abstract = {Loading data into quantum computers is a key bottleneck that threatens end-to-end quantum advantage. Quantum-circuit compilers for structured states like matrix product states (MPS) are a critical enabler to manage this in quantum chemistry, finance, and many-body quantum simulation. Approximate preparation of MPS typically relies on layered sequential staircases of nearest-neighbour gates. We present Adaptive State Preparation by Iterative Removal of Entanglement (ASPIRE), an algorithm that approximately compiles state-preparation circuits by selecting gates based on the state's underlying entanglement geometry and the available connectivity of the target quantum processor. Our protocol scores candidate qubit pairs on the removability of their entanglement and identifies layers of parallelised long-ranged gates that remove the most entanglement. We demonstrate our protocol empirically across a range of settings, illustrating its success for preparing Hamiltonian ground states and multivariate amplitude-encoded functions, and accounting for qubit connectivity, hardware noise, and both NISQ and early fault-tolerant settings. Throughout, ASPIRE typically achieves higher fidelities and shallower circuits than existing methods for states with long-ranged entanglement, even when classical optimisation is accounted for. Our investigation positions ASPIRE as a competitive, resource-frugal state-preparation protocol, with particular promise for applications tolerant to imperfect fidelity such as preparation of guide states for quantum phase estimation.}
 }
+
+@article{sims2026spin,
+  title    = {Spin-adapted state preparation for quantum chemistry},
+  author   = {Sims-Goh, Matthew L and Hasselgren, Fredrik and Jnane, Hamza},
+  journal  = {arXiv preprint arXiv:2611.30014},
+  year     = {2026},
+  doi      = {10.48550/arXiv.2611.30014},
+  html     = {https://arxiv.org/abs/2611.30014},
+  pdf      = {https://arxiv.org/pdf/2611.30014},
+  abbr     = {arXiv},
+  preview  = {spin-adapted-state-prep.png},
+  abstract = {Quantum phase estimation for strongly-correlated molecules requires an initial state of high overlap with the true ground state, and preparing one is a significant fault-tolerant cost. Matrix product states (MPS) produced by the density matrix renormalisation group (DMRG) are a leading choice, yet existing circuits treat their tensors as dense or do not use the full symmetries present in molecular electronic Hamiltonians. In quantum chemistry, DMRG also exploits total spin, a non-abelian symmetry, storing one amplitude per spin multiplet instead of one per state. We show that the reduced tensors of such a spin-adapted MPS, labelled by the steps of the unitary group approach, form an abelian-symmetric MPS, which existing block-sparse preparation protocols can load at a cost set by the multiplet count. One state-independent rotation per site, determined by a Clebsch-Gordan coefficient, then returns the state to the occupation basis. We provide resource estimates for our circuits on singlet ground states of active space models of iron-sulphur clusters, finding improvements in Toffoli count up to $135\times$ compared to dense methods and $4.9\times$ compared to block-sparse methods applied to the same states, with up to $3.7\times$ fewer ancilla qubits required.}
+}
